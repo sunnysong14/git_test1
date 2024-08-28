@@ -1,0 +1,78 @@
+$ git log HEAD --pretty=raw
+
+commit ee6b63ef1dedc95cd48e520a59e36c5fa351923a
+tree a974aa85c3ecd3385607c3a148e7a3cc0467c31d
+parent 996723f6667ad3b34823d94597287a9fd8fc1a0e
+author Liyan Song <sunnysong14@gmail.com> 1690423498 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690423498 +0800
+
+    add show-plot of the commit flow
+
+commit 996723f6667ad3b34823d94597287a9fd8fc1a0e
+tree d2646ec5670d8745caf06ccad58f6e142bb7ba62
+parent 3f05f446a3f478222def6f615570b2f3fb6eb44c
+author Liyan Song <sunnysong14@gmail.com> 1690364008 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690364008 +0800
+
+    submit the 5th commit to the master
+
+commit 3f05f446a3f478222def6f615570b2f3fb6eb44c
+tree ac21e3e2c82f18ef19223b9630c27411c741e65c
+parent fae9a322e715c645e9a7f97284407750e4fa980b
+parent ce4632e2762c6754b63d743950f32bce0c5b9a78
+author Liyan Song <sunnysong14@gmail.com> 1690363718 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690363718 +0800
+
+    merge the fea branch to the master branch
+
+commit fae9a322e715c645e9a7f97284407750e4fa980b
+tree c7f9d796aeae9ad1545baafed60667cc77aeca50
+parent 0bd4b4287e0712391269ea41c25dc1dc7df19fa3
+author Liyan Song <sunnysong14@gmail.com> 1690363434 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690363434 +0800
+
+    submit the 4th commit to the master
+
+commit ce4632e2762c6754b63d743950f32bce0c5b9a78
+tree 848a74b524ce4e3b8e5f076305f034479c6d097c
+parent e4961c50ee19e1547615df9f52ce8afb81c41b73
+author Liyan Song <sunnysong14@gmail.com> 1690363335 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690363335 +0800
+
+    submit the 2nd commit to the fea
+
+commit 0bd4b4287e0712391269ea41c25dc1dc7df19fa3
+tree 166a2d9d71c16aae8353b8c67eb10795cf853bcf
+parent 27a14da6ac63e2fdb828a352aa0c3f93f57d0614
+author Liyan Song <sunnysong14@gmail.com> 1690363251 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690363251 +0800
+
+    submit the 3rd commit to the master
+
+commit e4961c50ee19e1547615df9f52ce8afb81c41b73
+tree efcf1fd5916ed00db3d0371cb7cb01c09ce7d317
+parent 27a14da6ac63e2fdb828a352aa0c3f93f57d0614
+author Liyan Song <sunnysong14@gmail.com> 1690363047 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690363047 +0800
+
+    submit the 1st commit to the fea branch
+
+commit 27a14da6ac63e2fdb828a352aa0c3f93f57d0614
+tree 61a6c59e48725f5811d372ccfb5e33faee522ff7
+parent 09468379ef92e4ad6589c4d25c887d8cf378134c
+author Liyan Song <sunnysong14@gmail.com> 1690362751 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690362751 +0800
+
+    submit the 2nd commit to the master
+
+commit 09468379ef92e4ad6589c4d25c887d8cf378134c
+tree aae163736eb185af8b02d1b20b32a40c29de5d37
+parent d3e6235626b145aa8511e5802dd029bf65a3097a
+author Liyan Song <sunnysong14@gmail.com> 1690362596 +0800
+committer Liyan Song <sunnysong14@gmail.com> 1690362596 +0800
+
+    submit the 1st commit to the master branch
+
+commit d3e6235626b145aa8511e5802dd029bf65a3097a
+tree c2b1e71e84a4410bcc9a3955b567f83b080cbedc
+author Liyan Song <sunnysong14@gmail.com> 1690362488 +0800
